@@ -1,4 +1,12 @@
 # Intune Baselines (intunebaselines.com)
 
-In deze github repo vindt je een selectie door mij gemaakte Intune baseline configuraties.
-Deze configuratie files zijn free to use maar zorg dat je ze eerst test voordat je deze in je productie omgeving uitrolt.
+In this github repo you will find a selection of Intune baseline configurations I made.
+These configuration files are free to use but make sure you test them first before you roll them out in your production environment.
+
+# Intune Security Baselines
+Microsoft Endpoint Security is an important topic and unfortunately I regularly see that this is not set up within Microsoft Intune.
+These baselines are a starting point for your organization and should be checked for correct operation within your environment.
+
+# Modern Work Baseline
+In addition to the security profile baselines, there will be various profiles for Windows 11 and iOS / Android
+There are currently a number of them, more will be added asap
