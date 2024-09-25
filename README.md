@@ -11,6 +11,6 @@ These baselines are a starting point for your organization and should be checked
 In addition to the security profile baselines, there will be various profiles for Windows 11 and iOS / Android
 There are currently a number of them, more will be added asap
 
-#How to deploy?
+# How to deploy?
 The JSON files can be imported into Microsoft Intune via Powershell or other community tools.
 Currently, an import script from intunebaselines.com is being worked on
