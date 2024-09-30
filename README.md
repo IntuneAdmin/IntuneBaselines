@@ -1,16 +1,26 @@
 # Intune Baselines (intunebaselines.com)
+In this repo, you will find Intune profiles in JSON format, which can be used in setting up your Modern Workplace. All policies were created in Microsoft Intune and exported to share with the community.
 
-In this github repo you will find a selection of Intune baseline configurations I made.
-These configuration files are free to use but make sure you test them first before you roll them out in your production environment.
+# Type Baselines
+Apple: These baseline profiles apply to iOS / iPadOS. Since I live in the European Union, some baseline profiles will be specifically for European users. These profiles will have 'EU' in their name.
 
-# Intune Security Baselines
-Microsoft Endpoint Security is an important topic and unfortunately I regularly see that this is not set up within Microsoft Intune.
-These baselines are a starting point for your organization and should be checked for correct operation within your environment.
+Defender for Endpoint: The baseline profiles for Defender for Endpoint are currently based on Defender for Endpoint P1. These baseline profiles also include SmartScreen configurations, as they work closely with Defender for Endpoint.
 
-# Modern Work Baseline
-In addition to the security profile baselines, there will be various profiles for Windows 11 and iOS / Android
-There are currently a number of them, more will be added asap
+Endpoint Security: The Endpoint Security baseline profiles pertain to the Endpoint Security section in Intune. Here, you will find baseline profiles such as Security Baselines, Disk Encryption, Firewall, LAPS, ASR, etc.
 
-# How to deploy?
-The JSON files can be imported into Microsoft Intune via Powershell or other community tools.
-Currently, an import script from intunebaselines.com is being worked on
+Modern Workplace (Windows 11): The baseline profiles for Modern Work include profiles related to the management layer of Windows 11 and the user experience. For example, configuring Outlook profiles, Universal Print deployment, OneDrive profiles, etc.
+
+# Baseline Profiles
+These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
+
+# RoadMap
+- Add more Security baseline profiles
+- Add more Windows 11 Management Baselineprofiles
+- Add more iOS Baseline profiles
+- Add some Android baseline profiles
+- Add some Windows 365 Baseline profiles.
+
+# Contact
+"Would you like to get in touch with me?  
+Then send an email to Baselines@wolkenman.nl."
+
