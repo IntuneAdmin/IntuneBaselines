@@ -13,6 +13,10 @@ Modern Workplace (Windows 11): The baseline profiles for Modern Work include pro
 # Baseline Profiles
 These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
 
+# Import / Export
+The baseline files are exported with the great tool of Micke-K's called IntuneManagement
+See his repo here: https://github.com/Micke-K/IntuneManagement With this tool the JSON files can be imported into your Intune environment!
+
 # RoadMap
 - Add more Security baseline profiles
 - Add more Windows 11 Management Baselineprofiles
