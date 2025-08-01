@@ -1,4 +1,4 @@
-# Intune Baselines (intunebaselines.com)
+# Intune Baselines
 In this repo, you will find Intune profiles in JSON format, which can be used in setting up your Modern Workplace. All policies were created in Microsoft Intune and exported to share with the community.
 
 # Type Baselines
@@ -26,5 +26,5 @@ See his repo here: https://github.com/Micke-K/IntuneManagement With this tool th
 
 # Contact
 "Would you like to get in touch with me?  
-Then send an email to Baselines@wolkenman.nl."
+Then send an email to baselines@wolkenman.nl."
 
