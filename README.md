@@ -1,6 +1,7 @@
 # Intune Baselines
 In this repo, you will find Intune profiles in JSON format, which can be used in setting up your Modern Workplace. All policies were created in Microsoft Intune and exported to share with the community.
 
+
 # Type Baselines
 -  CIS Microsoft Edge version 3.0.0 Level 1 Benchmarks
 -  CIS Intune for Windows Verson 4.0.0 Bitlocker Benchmarks
@@ -17,7 +18,7 @@ In this repo, you will find Intune profiles in JSON format, which can be used in
 -  Windows 11 AI baseline
 
 # Baseline Profiles
-These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production! The baseline policies are a mix of best practices and my own experience regarding configurations. The CIS benchmarks are a mapping to Intune policies from the official CIS benchmark documentation.
+These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production! The baseline policies are a mix of best practices and my own experience regarding configurations. The CIS benchmarks are a mapping to Intune policies from the official CIS benchmark documentation. Currently, the baseline has 189 profiles which can be imported into Microsoft Intune!
 
 # Import / Export
 The baseline files are exported with the great tool of Micke-K's called IntuneManagement
