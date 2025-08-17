@@ -25,6 +25,8 @@ The baseline policies are a mix of best practices and my own experience regardin
 The baseline files are exported with the great tool of Micke-K's called IntuneManagement
 See his repo here: https://github.com/Micke-K/IntuneManagement With this tool the JSON files can be imported into your Intune environment!
 
+These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
+
 # RoadMap
 - Add CIS Microsoft Edge Level 2 benchmarks
 - Add CIS Intune for Windows Level 1 & 2 benchmarks
