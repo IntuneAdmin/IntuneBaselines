@@ -18,7 +18,8 @@ In this repo, you will find Intune profiles in JSON format, which can be used in
 -  Windows 11 AI baseline
 
 # Baseline Profiles
-These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production! The baseline policies are a mix of best practices and my own experience regarding configurations. The CIS benchmarks are a mapping to Intune policies from the official CIS benchmark documentation. Currently, the baseline has 189 profiles which can be imported into Microsoft Intune!
+These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
+The baseline policies are a mix of best practices and my own experience regarding configurations. The CIS benchmarks are a mapping to Intune policies from the official CIS benchmark documentation. Currently, the baseline has 189 profiles which can be imported into Microsoft Intune!
 
 # Import / Export
 The baseline files are exported with the great tool of Micke-K's called IntuneManagement
