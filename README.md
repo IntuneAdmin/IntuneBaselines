@@ -6,6 +6,7 @@ In this repo, you will find Intune profiles in JSON format, which can be used in
 -  CIS Microsoft Edge version 3.0.0 Level 1 Benchmarks
 -  CIS Intune for Windows Verson 4.0.0 Bitlocker Benchmarks
 -  Apple iOS / IpadOS baslines
+-  Apple MacOS baselines
 -  Windows compliance baseline
 -  Android compliance baseline
 -  iOS / IpadOS compliance baseline
