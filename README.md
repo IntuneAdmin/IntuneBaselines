@@ -5,7 +5,7 @@ In this repo, you will find Intune profiles in JSON format, which can be used in
 # Type Baselines
 -  CIS Microsoft Edge version 3.0.0 Level 1 Benchmarks
 -  CIS Microsoft Edge version 3.0.0 Level 2 Benchmarks
--  CIS Intune for Windows Verson 4.0.0 Bitlocker Benchmarks
+-  CIS Intune for Windows Verson 4.0.0
 -  Apple iOS / IpadOS baslines
 -  Apple MacOS baselines
 -  Windows compliance baseline
@@ -30,7 +30,6 @@ See his repo here: https://github.com/Micke-K/IntuneManagement With this tool th
 These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
 
 # RoadMap
-- Add CIS Intune for Windows Level 1 & 2 benchmarks
 - Add CIS for Office Level 1 & 2 benchmarks
 - Add more Security baseline profiles
 - Add more Windows 11 Management Baselineprofiles
