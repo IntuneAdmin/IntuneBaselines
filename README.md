@@ -26,7 +26,7 @@ The baselines are a mix of best practice policies from the documentation, Zero T
 
 # Baseline Profiles
 These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
-The baseline policies are a mix of best practices and my own experience regarding configurations. The CIS benchmarks are a mapping to Intune policies from the official CIS benchmark documentation. Currently, the baseline has 267 profiles which can be imported into Microsoft Intune!
+The baseline policies are a mix of best practices and my own experience regarding configurations. The CIS benchmarks are a mapping to Intune policies from the official CIS benchmark documentation. Currently, the baseline has 720 profiles which can be imported into Microsoft Intune!
 
 # Import / Export
 The baseline files are exported with the great tool of Micke-K's called IntuneManagement
