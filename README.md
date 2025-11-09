@@ -36,11 +36,14 @@ These baseline profiles are regularly reviewed and modified based on new develop
 
 # RoadMap
 - Add CIS for Office Level 1 & 2 benchmarks
-- Add more Security baseline profiles
-- Add more Windows 11 Management Baselineprofiles
+- Add more Windows 11 Management profiles
 - Add more iOS Baseline profiles
 - Add some Android baseline profiles
 - Add more MacOS baseline profiles
+- Add more Google Chrome Enterprise profiles
+- Add Microsoft Azure Virtual Desktop profiles
+- Add FireFox profiles
+
 
 # Contact
 "Would you like to get in touch with me or help with the baseline?
