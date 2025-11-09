@@ -16,6 +16,7 @@ The baselines are a mix of best practice policies from the documentation, Zero T
 -  iOS / IpadOS compliance baseline
 -  MacOS compliance baseline
 -  Linux compliance baseline
+-  Google Chrome Enterprise
 -  Windows Defender for Endpoint baseline
 -  Linux defender for endpoint baseline
 -  Windows Endpoint security baseline
