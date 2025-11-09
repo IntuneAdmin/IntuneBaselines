@@ -21,6 +21,7 @@ In this repo, you will find Intune profiles in JSON format, which can be used in
 -  Windows Endpoint security baseline
 -  Windows 11 Modern Workplace baseline
 -  Windows 11 AI baseline
+-  Windows 365 Enterprise baseline
 
 # Baseline Profiles
 These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
@@ -38,7 +39,6 @@ These baseline profiles are regularly reviewed and modified based on new develop
 - Add more Windows 11 Management Baselineprofiles
 - Add more iOS Baseline profiles
 - Add some Android baseline profiles
-- Add some Windows 365 Baseline profiles
 - Add more MacOS baseline profiles
 
 # Contact
