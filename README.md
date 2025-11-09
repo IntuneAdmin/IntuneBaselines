@@ -1,6 +1,6 @@
 # Intune Baselines
 In this repo, you will find Intune profiles in JSON format, which can be used in setting up your Modern Workplace. All policies were created in Microsoft Intune and exported to share with the community.
-
+The baselines are a mix of best practice policies from the documentation, Zero Trust and our own experiences within Microsoft Intune and the Modern Workplace.
 
 # Type Baselines
 -  CIS Microsoft Edge version 3.0.0 Level 1 Benchmarks
@@ -42,6 +42,6 @@ These baseline profiles are regularly reviewed and modified based on new develop
 - Add more MacOS baseline profiles
 
 # Contact
-"Would you like to get in touch with me?  
+"Would you like to get in touch with me or help with the baseline?
 Then send an email to baselines@wolkenman.nl."
 
