@@ -42,7 +42,6 @@ These baseline profiles are regularly reviewed and modified based on new develop
 - Add some Android baseline profiles
 - Add more MacOS baseline profiles
 - Add more Google Chrome Enterprise profiles
-- Add Microsoft Azure Virtual Desktop profiles
 - Add FireFox profiles
 
 
