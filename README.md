@@ -23,6 +23,7 @@ The baselines are a mix of best practice policies from the documentation, Zero T
 -  Windows 11 Modern Workplace baseline
 -  Windows 11 AI baseline
 -  Windows 365 Enterprise baseline
+-  Windows Azure Virtual Desktop baseline
 
 # Baseline Profiles
 These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
