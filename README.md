@@ -27,6 +27,9 @@ The baselines are a mix of best practice policies from the documentation, Zero T
 -  ISO/IEC 27001:2022 for Microsoft Edge based on CIS controls
 -  NIS2 - 2022/2555 for Windows 11 (Europe)
 -  NIS2 - 2022/2555 for Microsoft Edge (Europe)
+-  Modern Workplace Fundamentals
+-  Modern Workplace Associate
+-  Modern Workplace Expert
 
 # Disclaimer: The Modern Work Fundamentals, Associate and Expert baselines are work in progress and will be evaluated and can be changed.
 
