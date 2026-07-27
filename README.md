@@ -24,6 +24,7 @@ The baselines are a mix of best practice policies from the documentation, Zero T
 -  Windows 11 AI baseline
 -  Windows 365 Enterprise baseline
 -  Windows Azure Virtual Desktop baseline
+-  ISO/IEC 27001:2022 for Microsoft Edge based on CIS controls
 
 # Baseline Profiles
 These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
