@@ -1,5 +1,6 @@
 # Intune Baselines
 In this repo, you will find Intune profiles in JSON format, which can be used in setting up your Modern Workplace. All policies were created in Microsoft Intune and exported to share with the community.
+
 The baselines are a mix of best practice policies from the documentation, Zero Trust and our own experiences within Microsoft Intune and the Modern Workplace.
 
 # Type Baselines
@@ -30,11 +31,11 @@ The baselines are a mix of best practice policies from the documentation, Zero T
 -  Modern Workplace Fundamentals
 -  Modern Workplace Associate
 -  Modern Workplace Expert
-
-# Disclaimer: The Modern Work Fundamentals, Associate and Expert baselines are work in progress and will be evaluated and can be changed.
+-  Detect and Remediation scripts
 
 # Baseline Profiles
 These baseline profiles are regularly reviewed and modified based on new developments. Always test the baseline profiles in your own environment before deploying them to production!
+
 The baseline policies are a mix of best practices and my own experience regarding configurations. The CIS benchmarks are a mapping to Intune policies from the official CIS benchmark documentation. Currently, the baseline has 739 profiles which can be imported into Microsoft Intune!
 
 # Import / Export
@@ -51,6 +52,8 @@ These baseline profiles are regularly reviewed and modified based on new develop
 - Add more MacOS baseline profiles
 - Add more Google Chrome Enterprise profiles
 - Add FireFox profiles
+
+- # Disclaimer: The Modern Work Fundamentals, Associate and Expert baselines are work in progress and will be evaluated and can be changed.
 
 
 # Contact
