@@ -17,9 +17,9 @@ $PrtLine = $DsReg |
 
 if ($PrtLine -and $PrtLine -match '^\s*AzureAdPrt\s*:\s*YES\s*$') {
     Write-Output "Microsoft Entra Primary Refresh Token is available."
-    #exit 0
+    exit 0
 }
 else {
     Write-Output "Microsoft Entra Primary Refresh Token is not available."
-    #exit 1
+    exit 1
 }
