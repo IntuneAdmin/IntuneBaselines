@@ -7,9 +7,9 @@ $Admin = Get-LocalUser | Where-Object {
 
 if ($Admin -and -not $Admin.Enabled) {
     Write-Output "Built-in Administrator account is disabled."
-    #exit 0
+    exit 0
 }
 else {
     Write-Output "Built-in Administrator account is enabled."
-    #exit 1
+    exit 1
 }
