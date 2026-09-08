@@ -27,9 +27,9 @@ $UnhealthyWriters = $WriterStates | Where-Object {
 
 if (-not $UnhealthyWriters) {
     Write-Output "All VSS writers are in a stable state."
-    #exit 0
+    exit 0
 }
 else {
     Write-Output "One or more VSS writers are not in a stable state."
-    #exit 1
+    exit 1
 }
