@@ -32,28 +32,28 @@ try {
 
     if (-not $Partition) {
         Write-Output "Windows Recovery Environment partition not found."
-        #exit 1
+        exit 1
     }
 
     $Volume = Get-Volume -Partition $Partition -ErrorAction Stop
 
     if (-not $Volume.Path) {
         Write-Output "Windows Recovery Environment volume path not found."
-        #exit 1
+        exit 1
     }
 
     $WinREImage = Join-Path $Volume.Path "Recovery\WindowsRE\Winre.wim"
 
     if ([System.IO.File]::Exists($WinREImage)) {
         Write-Output "Windows Recovery Environment image exists."
-        #exit 0
+        exit 0
     }
     else {
         Write-Output "Windows Recovery Environment image does not exist."
-        #exit 1
+        exit 1
     }
 }
 catch {
     Write-Output "Unable to verify Windows Recovery Environment image."
-    #exit 1
+    exit 1
 }
