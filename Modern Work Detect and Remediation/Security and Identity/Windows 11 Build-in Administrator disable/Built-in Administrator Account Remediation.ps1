@@ -28,11 +28,11 @@ try {
     }
     else {
         Write-Output "Failed to disable Built-in Administrator account."
-        #exit 1
+        exit 1
     }
 }
 catch {
     Write-Output "Failed to disable Built-in Administrator account."
     Write-Output $_.Exception.Message
-    #exit 1
+    exit 1
 }
