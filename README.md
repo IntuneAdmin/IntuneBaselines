@@ -1,5 +1,5 @@
 
-#This baseline structure will be deprecated soon. A new baseline structure, along with additional documentation, new policies, and release information, is expected to be available around December 31.
+# This baseline structure will be deprecated soon. A new baseline structure, along with additional documentation, new policies, and release information, is expected to be available around December 31.
 
 
 
