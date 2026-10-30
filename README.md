@@ -1,3 +1,8 @@
+
+#This baseline structure will be deprecated soon. A new baseline structure, along with additional documentation, new policies, and release information, is expected to be available around December 31.
+
+
+
 # Intune Baselines
 In this repo, you will find Intune profiles in JSON format, which can be used in setting up your Modern Workplace. All policies were created in Microsoft Intune and exported to share with the community.
 
